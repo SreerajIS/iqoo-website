@@ -1,0 +1,8 @@
+.nav-text {
+  align-items: center;
+  justify-content: center;
+}
+.person-icon {
+  border: none;
+  background-color: rgb(31, 37, 41);
+}

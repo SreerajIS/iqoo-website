@@ -1,0 +1,25 @@
+.footer-btn {
+  border: none;
+  background-color: white;
+  margin: 10px;
+  margin-left: 0;
+}
+.sm-icons {
+  cursor: pointer;
+}
+.col-md-4 h6 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.col-md-6 h6{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+@media only screen and (max-width: 780px){
+  .footer-1 button {
+    display: none;
+  }
+}
+.footer-2 p {
+  cursor: pointer;
+}
